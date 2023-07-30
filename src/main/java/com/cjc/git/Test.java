@@ -9,5 +9,6 @@ public class Test {
         System.out.println("你好!git2");
         System.out.println("你好!hot-fix git2");
         System.out.println("push");
+        System.out.println("github改了一行代码");
     }
 }
